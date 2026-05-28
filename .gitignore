@@ -1,0 +1,27 @@
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Temp files
+*.tmp
+.tmp/
+
+# Environment
+.env
+.env.local
+.env.*.local
